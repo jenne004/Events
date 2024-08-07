@@ -14,11 +14,11 @@
       "eventId": 3,
       "eventname": "bingo night",
       "eventdate": "2024-08-26"
-    }
+    },
     {
-    "eventId": 4,
-    "eventname": "animal petting",
-    "eventdate": "2024-08-14"
+      "eventId": 4,
+      "eventname": "animal petting",
+      "eventdate": "2024-08-14"
     }
   ]
 }
