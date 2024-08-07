@@ -1,0 +1,24 @@
+{
+  "events": [
+    {
+      "eventId": 1,
+      "eventname": "tractorrace",
+      "eventdate": "2024-09-15"
+    },
+    {
+      "eventId": 2,
+      "eventname": "tour around farm",
+      "eventdate": "2024-08-10"
+    },
+    {
+      "eventId": 3,
+      "eventname": "bingo night",
+      "eventdate": "2024-08-26"
+    }
+    {
+    "eventId": 4,
+    "eventname": "animal petting",
+    "eventdate": "2024-08-14"
+    }
+  ]
+}
